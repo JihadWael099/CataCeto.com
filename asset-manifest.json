@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CataCeto.com/static/css/main.af8b6988.css",
+    "main.js": "/CataCeto.com/static/js/main.770af095.js",
+    "static/js/453.85987946.chunk.js": "/CataCeto.com/static/js/453.85987946.chunk.js",
+    "index.html": "/CataCeto.com/index.html",
+    "main.af8b6988.css.map": "/CataCeto.com/static/css/main.af8b6988.css.map",
+    "main.770af095.js.map": "/CataCeto.com/static/js/main.770af095.js.map",
+    "453.85987946.chunk.js.map": "/CataCeto.com/static/js/453.85987946.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af8b6988.css",
+    "static/js/main.770af095.js"
+  ]
+}
